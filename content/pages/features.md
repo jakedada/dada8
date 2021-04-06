@@ -99,17 +99,10 @@ sections:
         image: images/collaborators.png
       - title: Reports
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We all have stuff to do all the time: Work tasks, calls to make,
+          groceries to buy and dry cleaning to pick up. Get all your tasks in
+          one place for easy management.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
