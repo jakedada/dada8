@@ -28,11 +28,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Features",
                 "url": "/features",
                 "style": "link",
