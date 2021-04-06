@@ -71,7 +71,7 @@ sections:
         align: left
         type: feature
         image: images/View Settings.png
-      - title: 'Share '
+      - title: Share Content
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
