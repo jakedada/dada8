@@ -36,7 +36,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - title: Add markers and trim
+      - title: Add markers and trim video
         subtitle: Always be in control
         content: >
           We all have stuff to do all the time: Work tasks, calls to make,
