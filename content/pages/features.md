@@ -55,6 +55,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/add marker.png
     feature_padding_vert: large
     align: center
     background_color: none
