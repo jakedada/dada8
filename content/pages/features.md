@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: features_section
     features:
-      - title: Upload Video
+      - title: Upload videos
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
