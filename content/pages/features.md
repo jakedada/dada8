@@ -73,17 +73,10 @@ sections:
         image: images/View Settings.png
       - title: Share Content
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We all have stuff to do all the time: Work tasks, calls to make,
+          groceries to buy and dry cleaning to pick up. Get all your tasks in
+          one place for easy management.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
