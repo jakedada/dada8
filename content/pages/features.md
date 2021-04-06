@@ -58,7 +58,7 @@ sections:
         align: left
         type: feature
         image: images/add marker.png
-      - title: lorem-ipsum
+      - title: Views
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
