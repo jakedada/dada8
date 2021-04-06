@@ -43,7 +43,7 @@ sections:
           groceries to buy and dry cleaning to pick up. Get all your tasks in
           one place for easy management.
         actions:
-          - label: lorem-ipsum
+          - label: Take a Look
             url: '#'
             style: link
             has_icon: false
