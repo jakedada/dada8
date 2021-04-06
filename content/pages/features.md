@@ -84,7 +84,7 @@ sections:
         align: left
         type: feature
         image: images/share video.png
-      - title: lorem-ipsum
+      - title: Share
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
