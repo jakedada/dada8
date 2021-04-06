@@ -97,7 +97,7 @@ sections:
         align: left
         type: feature
         image: images/collaborators.png
-      - title: lorem-ipsum
+      - title: Reports
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
