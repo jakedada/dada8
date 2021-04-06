@@ -36,7 +36,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: Feature 3
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
