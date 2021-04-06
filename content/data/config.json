@@ -32,7 +32,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "App Store",
+                "label": "Sign In",
                 "url": "/pricing",
                 "style": "primary"
             },
