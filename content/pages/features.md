@@ -37,7 +37,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Feature 3
-        subtitle: lorem-ipsum
+        subtitle: Always be in control
         content: >
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
