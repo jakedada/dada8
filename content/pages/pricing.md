@@ -31,10 +31,7 @@ sections:
           *   Search, Filter, Group, Sort Hide within any project table
           *   Upload, Edit, Trim and Share if permitted by project owner
         content_align: left
-        actions:
-          - label: Start with Personal
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Project Plan
