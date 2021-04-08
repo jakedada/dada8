@@ -3,12 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Dada for your dayda
-    subtitle: Store, manage and share your media files
+    subtitle: 'Store, manage and share your media files'
     content: >-
       Dadabase is a cloud-based video management tool. Finally gain control over
       your growing library!
     actions:
-      - label: App Store
+      - label: Features
         url: /pricing
         style: primary
       - label: Google Play
