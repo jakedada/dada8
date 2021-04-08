@@ -66,7 +66,7 @@ sections:
           *   High-volume media transfer
         content_align: left
         actions:
-          - label: Contact Us
+          - label: Send us an email
             url: /thank-you
             style: primary
         actions_align: left
