@@ -33,7 +33,7 @@ sections:
         content: |-
           ***
 
-          ### $19
+          ### $20
 
           per month, billed yearly
 
