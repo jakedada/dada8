@@ -8,7 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
     actions:
-      - label: lorem-ipsum
+      - label: S
         url: '#'
         style: link
         has_icon: false
