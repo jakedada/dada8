@@ -13,17 +13,13 @@ sections:
         subtitle: Just for you
         title_align: left
         content: |-
-          ---
+          ***
 
-          ### $9
+          ### $0 per month
 
-          per month, billed yearly
-
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   Access a shared project
+          *   Search, Filter, Group, Sort Hide within any project table
+          *   Upload, Edit, Trim and Share if permitted by project owner
         content_align: left
         actions:
           - label: Start with Personal
