@@ -28,7 +28,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Project Plan
-        subtitle: For you and your family members
+        subtitle: The way to go for content creators
         title_align: left
         content: |-
           ---
