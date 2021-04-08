@@ -5,9 +5,8 @@ sections:
     title: Dada for your dayda
     subtitle: Store, manage and share your media files
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      Dadabase is a cloud-based video management tool. Finally gain control over
+      your growing library!
     actions:
       - label: App Store
         url: /pricing
