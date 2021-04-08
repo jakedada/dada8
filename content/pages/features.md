@@ -114,7 +114,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Regain Control of your To Dos
+    title: Regain Control of your Videos
     content: >-
       Download App Land now and connect with all your calendars, project
       management tools and task lists — it doesn't get easier than this!
