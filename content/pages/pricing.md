@@ -34,7 +34,7 @@ sections:
           ***
 
           ### $20
- \+Usage Fees
+          \+Usage Fees
           *   Convert media ($0.09 minute)
           *   Store media ($0.04 GB month)
           *   Stream media ($0.08 GB)
