@@ -37,11 +37,13 @@ sections:
       - title: Project Plan
         subtitle: The way to go for content creators
         title_align: left
-        content: |-
+        content: |
           ***
 
-          ### $20
+          ### $20 per month
+
           \+Usage Fees
+
           *   Convert media ($0.09 minute)
           *   Store media ($0.04 GB month)
           *   Stream media ($0.08 GB)
