@@ -66,7 +66,7 @@ sections:
           *   High-volume media transfer
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Contact Us
             url: /thank-you
             style: primary
         actions_align: left
