@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Start a New Project
         url: '#'
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
