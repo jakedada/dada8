@@ -50,7 +50,7 @@ sections:
         actions:
           - label: Start with Family
             url: /thank-you
-            style: primary
+            style: secondary
         actions_align: left
         actions_width: full-width
       - title: Custom
