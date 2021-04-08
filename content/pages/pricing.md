@@ -68,7 +68,7 @@ sections:
         actions:
           - label: Send us an email
             url: /thank-you
-            style: primary
+            style: secondary
         actions_align: left
         actions_width: full-width
     grid_cols: three
