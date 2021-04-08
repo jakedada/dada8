@@ -47,7 +47,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Custom
-        subtitle: For your entire team
+        subtitle: We can hook you up
         title_align: left
         content: |-
           ---
