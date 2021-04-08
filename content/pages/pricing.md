@@ -48,7 +48,7 @@ sections:
           *   Manage Collaborators
         content_align: left
         actions:
-          - label: Start with Family
+          - label: Start a new project
             url: /thank-you
             style: secondary
         actions_align: left
