@@ -49,8 +49,8 @@ sections:
       - title: Intuitive data grids for management
         title_align: left
         content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+          Dadabase tables let you group, filter, sort and hide columns.  Save
+          your favorite settiings in 'views'.
         content_align: left
         actions:
           - label: Learn More
