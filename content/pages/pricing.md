@@ -8,7 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
     actions:
-      - label: S
+      - label: Start a New Project
         url: '#'
         style: link
         has_icon: false
