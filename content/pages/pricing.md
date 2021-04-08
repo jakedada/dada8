@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pricing
+    title: Project Pricing
     subtitle: 'App Land offers affordable plans for private, family and business use.'
     align: center
     padding_top: large
@@ -50,13 +50,13 @@ sections:
         subtitle: We can hook you up
         title_align: left
         content: |-
-           ***
+          ***
 
-           ### Contact Us
+          ### Contact Us
 
-           *   Discounted pricing for long-term contracts
-           *   Custom integration with your existing apps
-           *   High-volume media transfer
+          *   Discounted pricing for long-term contracts
+          *   Custom integration with your existing apps
+          *   High-volume media transfer
         content_align: left
         actions:
           - label: Start with Business
