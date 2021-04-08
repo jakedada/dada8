@@ -150,8 +150,7 @@ sections:
   - type: cta_section
     title: Regain Control of your Videos
     content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+      Sign up for Dadabase now and start turning your data into art.
     actions:
       - label: App Store
         url: /pricing
