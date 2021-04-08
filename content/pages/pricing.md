@@ -50,7 +50,7 @@ sections:
         subtitle: We can hook you up
         title_align: left
         content: |-
-         ***
+           ***
 
            ### Contact Us
 
