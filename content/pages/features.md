@@ -122,7 +122,7 @@ sections:
       - label: Start a project
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Pricing
         url: /pricing
         style: secondary
         has_icon: false
