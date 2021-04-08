@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Free
-        subtitle: Just for you
+        subtitle: Perfect for collaborators
         title_align: left
         content: |-
           ***
