@@ -152,7 +152,7 @@ sections:
     content: >-
       Sign up for Dadabase now and start turning your data into art.
     actions:
-      - label: App Store
+      - label: Sign Up
         url: /pricing
         style: primary
       - label: Google Play
