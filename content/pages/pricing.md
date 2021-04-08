@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Project Pricing
-    subtitle: 'App Land offers affordable plans for private, family and business use.'
+    subtitle: ' Each project requires a subscription. Add as many collaborators to your       project for no additional cost.'
     align: center
     padding_top: large
     padding_bottom: small
