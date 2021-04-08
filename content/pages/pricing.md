@@ -50,17 +50,13 @@ sections:
         subtitle: We can hook you up
         title_align: left
         content: |-
-          ---
+         ***
 
-          ### $39
+           ### Contact Us
 
-          per month, billed yearly
-
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+           *   Discounted pricing for long-term contracts
+           *   Custom integration with your existing apps
+           *   High-volume media transfer
         content_align: left
         actions:
           - label: Start with Business
