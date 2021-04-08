@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Project Pricing
-    subtitle: Each project requires a subscription.
+    subtitle: Each project requires a separate subscription
     align: center
     padding_top: large
     padding_bottom: small
