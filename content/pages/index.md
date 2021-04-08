@@ -11,7 +11,7 @@ sections:
       - label: Features
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Pricing
         url: /pricing
         style: secondary
     image: images/hero.svg
