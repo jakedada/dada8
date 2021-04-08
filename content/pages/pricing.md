@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Family
+      - title: Project Plan
         subtitle: For you and your family members
         title_align: left
         content: |-
