@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Project Pricing
-    subtitle: ' Each project requires a subscription. Add as many collaborators to your project for no additional cost.'
+    subtitle: Each project requires a subscription.
     align: center
     padding_top: large
     padding_bottom: small
