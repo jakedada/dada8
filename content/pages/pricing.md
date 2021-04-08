@@ -82,32 +82,48 @@ sections:
   - type: grid_section
     title: FAQ
     grid_items:
-      - title: Can I use multiple languages?
-        content: |-
-          App Land currently supports English, Spanish, German and French. Other
-          languages are on the roadmap and should be rolled out by the end of
-          the year.
-      - title: Do you support native iPhone apps?
-        content: |-
-          Absolutely. Both native iOS and Android apps are supported and work
-          seamlessly with App Land.
-      - title: Will my tasks be marked as done on their platform?
-        content: |-
-          As soon as you complete a task, App Land updates your task lists on
-          their respective platforms to make sure it's crossed-off immediately.
-      - title: What if someone else completes my task?
-        content: |-
-          Once a task is complete, you will get a notification letting you know
-          that you have one less thing to worry about - no matter who completes
-          it!
-      - title: Which integrations do you have?
-        content: |-
-          We work with all major productivity apps and platforms and support all
-          native iOS and Android apps.
-      - title: What is your cancellation policy?
-        content: |-
-          You can cancel anytime and your tasks and calendars will remain
-          unaffected.
+      - title: How are usage fees determined?
+        content: >
+          Usage amounts, provided directly from Amazon Web Services,  for media
+          stored (GBs), media converted (minutes) and media shares (GBS) are
+          posted daily to your account.
+      - title: What happens to my data when I cancel my account?
+        content: >
+          You can export all data in .csv format, and download any .mp4 file,
+          while you have an active account.  Within 30 days after cancellation,
+          Dadabase can transfer your master video files along with any .mp4
+          files created through MediaConvert. You must pay for all costs
+          associated with the transfer.  Please contact us for more
+          information.  After 30 days, all data, including video files, will be
+          deleted.
+      - title: What happens if my credit card is declined
+        content: >
+          We will notify you that the card has been declined. All upload and
+          sharing features will be suspended until you update your card
+          information.  If the credit card is not updated within 2 weeks, we
+          will suspend all access to your account.  You account will be
+          cancelled if it the card is not updated within 30 days after it was
+          first declined.  Then all data, including videos, will be deleted 30
+          days after your account was cancelled.
+      - title: Will I be charged multiple times during a month?
+        content: >
+          Upon account creation, you will be immediately charged a $20
+          subscription fee. At the end of the period, you will be charged for
+          any usage fees incurred during that period, along with a $20
+          subscription fee for the subsequent period.  If the sum of all usage
+          fees for the period exceeds $200 at any time, you will be immediately
+          billed $200, and then billed again for the remainder of your invoice
+          at the end of the month.  Please contact us if you would like to raise
+          the $200 limit.
+      - title: Do you offer discounts?
+        content: >
+          Sure! If you have a lot of content or if you have long-term needs,
+          contact us and we can create a custom plan.
+      - title: Can I have multiple projects?
+        content: >
+          Yes. You can have as many projects as you'd like. A separate monthly
+          subscription is required for each project. Each project will be billed
+          separately.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
