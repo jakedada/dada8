@@ -31,7 +31,7 @@ sections:
         subtitle: The way to go for content creators
         title_align: left
         content: |-
-          ---
+          ***
 
           ### $19
 
