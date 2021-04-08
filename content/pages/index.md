@@ -132,7 +132,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
+          “Fantastic app for videos. The trim tool is the best. Works perfectly
           everyday!”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
