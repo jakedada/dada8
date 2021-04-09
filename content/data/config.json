@@ -30,7 +30,7 @@
             },
             {
                 "label": "Docs",
-                "url": "#",
+                "url": "https://dada-docs.vercel.app/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
