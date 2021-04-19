@@ -38,22 +38,6 @@ sections:
         align: left
         type: feature
         image: images/share video.png
-      - title: Upload videos
-        subtitle: For true work-life balance
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/upload video.png
-        image_alt: Feature 1 placeholder image
-        media_position: left
-        media_width: fifty
       - title: Add metadata with advanced tables
         subtitle: Always be in control
         content: >-
@@ -70,6 +54,22 @@ sections:
         image: images/column type.png
         image_alt: Feature 2 placeholder image
         media_position: right
+        media_width: fifty
+      - title: Upload videos
+        subtitle: For true work-life balance
+        content: >-
+          Stop juggling between calendar apps and productivity tools — from now
+          on all your appointments and meetings appear in one place.
+        actions:
+          - label: Learn More
+            url: /pricing
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/upload video.png
+        image_alt: Feature 1 placeholder image
+        media_position: left
         media_width: fifty
       - title: Views
         subtitle: lorem-ipsum
