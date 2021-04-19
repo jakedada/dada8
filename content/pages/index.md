@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: A Database for your Media
     content: >
-      Cloud-based media management system that can store, mark-up, organize and
-      share your files.
+      Dadabase is a cloud-based media management system that can store, mark-up,
+      organize and share your files.
     actions:
       - label: Features
         url: /pricing
