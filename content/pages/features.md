@@ -3,6 +3,28 @@ title: Features
 sections:
   - type: features_section
     features:
+      - title: Add markers and trim video
+        subtitle: Always be in control
+        content: >
+          We all have stuff to do all the time: Work tasks, calls to make,
+          groceries to buy and dry cleaning to pick up. Get all your tasks in
+          one place for easy management.
+        actions:
+          - label: Take a Look
+            url: '#'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/add marker.png
       - title: Upload videos
         subtitle: For true work-life balance
         content: >-
@@ -36,28 +58,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - title: Add markers and trim video
-        subtitle: Always be in control
-        content: >
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
-        actions:
-          - label: Take a Look
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/add marker.png
       - title: Views
         subtitle: lorem-ipsum
         content: >
