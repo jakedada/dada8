@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Database for your Media
+    title: A Database for your Media
     subtitle: 'Store, manage and share your media files'
     content: >-
       Dadabase is a cloud-based video management tool. Finally gain control over
