@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: A Database for your Media
     subtitle: 'Store, manage and share your media files'
-    content: >-
-      Dadabase is a cloud-based video management tool. Finally gain control over
-      your growing library!
+    content: >
+      Dadabase is a cloud-based media management system that can store, mark-up,
+      organize and share your files.
     actions:
       - label: Features
         url: /pricing
