@@ -25,6 +25,19 @@ sections:
         align: left
         type: feature
         image: images/add marker.png
+      - title: Share Content
+        subtitle: lorem-ipsum
+        content: >
+          We all have stuff to do all the time: Work tasks, calls to make,
+          groceries to buy and dry cleaning to pick up. Get all your tasks in
+          one place for easy management.
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/share video.png
       - title: Upload videos
         subtitle: For true work-life balance
         content: >-
@@ -71,19 +84,6 @@ sections:
         align: left
         type: feature
         image: images/View Settings.png
-      - title: Share Content
-        subtitle: lorem-ipsum
-        content: >
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/share video.png
       - title: Add Collaborators
         subtitle: lorem-ipsum
         content: >
