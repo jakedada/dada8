@@ -13,7 +13,7 @@ sections:
       - label: Pricing
         url: /pricing
         style: secondary
-    image: images/dadahero.png
+    image: images/dadahero3.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
