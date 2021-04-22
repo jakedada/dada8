@@ -39,7 +39,7 @@ sections:
         type: feature
         image: images/share video.png
       - title: Add metadata with advanced tables
-        subtitle: Always be in control
+        subtitle: 'Group, filter, and sort'
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
