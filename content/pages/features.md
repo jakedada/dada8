@@ -26,7 +26,7 @@ sections:
         type: feature
         image: images/add marker.png
       - title: Share Content
-        subtitle: lorem-ipsum
+        subtitle: Password Protected Pages
         content: >
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
